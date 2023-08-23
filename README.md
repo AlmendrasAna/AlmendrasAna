@@ -1,3 +1,5 @@
+<a href="https://github.com/AlmendrasAna">![Anddy](https://media2.giphy.com/media/eiwO2OEkCV7cwvIQKq/200.webp?cid=dda24d50zoiequuzt5xljo7zymk25xlkif1tvqwzrn099946&ep=v1_gifs_related&rid=200.webp&ct=g)</a>
+
 <h1 align="center">Hi 👋(-w-), I'm Ana Almendras</h1>
 <h3 align="center">A passionate Android Trainee Application Developer from Chile</h3>
 
