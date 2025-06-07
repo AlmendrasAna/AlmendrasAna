@@ -1,6 +1,3 @@
-<a href="https://github.com/AlmendrasAna">![Anddy](https://media2.giphy.com/media/eiwO2OEkCV7cwvIQKq/200.webp?cid=dda24d50zoiequuzt5xljo7zymk25xlkif1tvqwzrn099946&ep=v1_gifs_related&rid=200.webp&ct=g)</a>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=almendrasana&label=Profile%20views&color=0e75b6&style=flat" alt="almendrasana"/></p>
-
 <h2 align="left">Hi 👋(^____^), I'm Ana Almendras</h2>
 
 - A passionate Android Trainee Application Developer and Tns computacion e informatica from Chile
