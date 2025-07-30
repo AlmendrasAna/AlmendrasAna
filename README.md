@@ -2,12 +2,14 @@
 
 Soy un **Desarrollador de Aplicaciones Móviles** con experiencia en Kotlin y Java. Actualmente, estoy ampliando mis habilidades en el área de DevOps, con el objetivo de comprender mejor el ciclo completo de desarrollo, integración y despliegue de software. Busco nuevos desafíos donde seguir aprendiendo, innovando y creciendo profesionalmente.
 
+--- 
+
 ## 📫 Contacto
 
 - 📧 Correo: [tuemail@ejemplo.com](mailto:almendras451@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ana-almendras](https://www.linkedin.com/in/ana-almendras)
-- 🌐 Portafolio: [tusitio.dev](https://tusitio.dev)
 
+--- 
 
 ## 💻 Tecnologías Clave
 
@@ -24,5 +26,6 @@ Soy un **Desarrollador de Aplicaciones Móviles** con experiencia en Kotlin y Ja
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
 
+---
 
 
