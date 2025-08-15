@@ -6,7 +6,7 @@ Soy un **Desarrollador de Aplicaciones Móviles** con experiencia en Kotlin y Ja
 
 ## 📫 Contacto
 
-- 📧 Correo: [tuemail@ejemplo.com](mailto:almendras451@gmail.com)
+- 📧 Correo: [almendras451@gmail.com](mailto:almendras451@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ana-almendras](https://www.linkedin.com/in/ana-almendras)
 
 --- 
